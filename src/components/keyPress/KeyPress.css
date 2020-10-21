@@ -1,0 +1,39 @@
+button{
+    background-color: #212638;
+    border-radius:50% ;
+    height: 30px;
+    width: 30px;
+    margin: 4px;
+    color: aliceblue;
+    border: none; 
+    outline:none;
+}
+
+button:active {
+    background-color: #475177;
+    border: none;
+}
+.top-row{
+    background-color: #8490ff;
+    color: #212638;
+}
+
+.top-row:active{
+    background-color: #a4aeff;
+
+}
+
+.top-col{
+    background-color: #34509e;
+    
+}
+.top-col:active{
+    background-color: #557ef0;
+}
+.zero{
+    width: 70px;
+    border-radius: 20px;
+    text-align: left;
+    padding-left: 6.5%;
+}
+
